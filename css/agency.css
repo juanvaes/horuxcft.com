@@ -172,11 +172,12 @@ img::-moz-selection {
     padding: 12px 0;
   }
 }
+/*background-image: url("../img/header-bg.jpg");*/
 
 header.masthead {
   text-align: center;
   color: white;
-  background-image: url("../img/header-bg.jpg");
+  background-image: radial-gradient(#202020, #080808);
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
